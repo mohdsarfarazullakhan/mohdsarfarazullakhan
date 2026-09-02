@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:020617,45:0F172A,100:0891B2&text=MD%20SARFARAZ%20ULLA%20KHAN&fontColor=67E8F9&fontSize=42&fontAlignY=36&desc=AI%20SYSTEMS%20ENGINEER%20%7C%20AGENTIC%20AI%20%7C%20COMPUTER%20VISION%20%7C%20MLOps&descAlignY=59&descSize=17" alt="AI Header" />
+<img width="100%" src="./assets/ai_robot_name_banner_agentic.gif" alt="MD Sarfaraz Ulla Khan - AI/ML Engineer with blinking AI robot" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=%5BSYSTEM+ONLINE%5D+Building+Intelligent+AI+Systems;%5BAGENT+CORE%5D+RAG+%7C+LLMs+%7C+LangGraph+%7C+AI+Agents;%5BVISION+MODULE%5D+YOLO+%7C+OpenCV+%7C+Video+Analytics;%5BDEPLOYMENT+LAYER%5D+Docker+%7C+MLflow+%7C+AWS+%7C+Azure;%5BMISSION%5D+Prototype+%E2%86%92+Production+%E2%86%92+Impact" alt="AI System Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=%5BSYSTEM+ONLINE%5D+Building+Intelligent+AI+Systems;%5BAGENT+CORE%5D+RAG+%7C+LLMs+%7C+LangGraph+%7C+AI+Agents;%5BNLP+MODULE%5D+Text+Intelligence+%7C+Embeddings+%7C+Semantic+Search;%5BVISION+MODULE%5D+YOLO+%7C+OpenCV+%7C+Video+Analytics;%5BDEPLOYMENT+LAYER%5D+Docker+%7C+MLflow+%7C+AWS+%7C+Azure;%5BMISSION%5D+Prototype+%E2%86%92+Production+%E2%86%92+Impact" alt="AI System Typing" />
 </a>
 
 <br/>
@@ -32,11 +32,12 @@
 AI_ENGINEER = {
     "name": "MD Sarfaraz Ulla Khan",
     "role": "AI/ML Engineer",
-    "base": "United Arab Emirates",
+    "base": "United Arab Emirates 🇦🇪",
     "modules": [
         "Generative AI + RAG",
         "Agentic AI + Multi-Agent Systems",
         "Computer Vision + Video Analytics",
+        "NLP + Semantic Search + Text Intelligence",
         "MLOps + Cloud Deployment"
     ],
     "objective": "Transform AI prototypes into reliable real-world systems",
@@ -48,6 +49,7 @@ I build **AI systems that move beyond notebooks** — combining models, retrieva
 
 - 🧠 Designing **RAG pipelines, AI agents, and multi-agent workflows** with LangChain and LangGraph.
 - 👁️ Building **computer-vision systems** with YOLO, OpenCV, tracking, and video analytics.
+- 🗣️ Developing **NLP systems** for text processing, embeddings, semantic similarity, information extraction, and intelligent search.
 - ⚙️ Creating reproducible ML workflows using **Docker, MLflow, DVC, CI/CD, AWS, and Azure**.
 - 🔬 Exploring **LLM evaluation, retrieval quality, guardrails, observability, and production AI architecture**.
 - 🚀 Open to opportunities in **AI/ML, Generative AI, Computer Vision, Agentic AI, MLOps, and AI Automation**.
@@ -64,9 +66,11 @@ flowchart LR
     B --> V[Vision Models]
     B --> R[RAG + LLMs]
     B --> A[AI Agents]
+    B --> N[NLP Engine]
     V --> E[Evaluation Engine]
     R --> E
     A --> E
+    N --> E
     E --> M[MLOps Layer]
     M --> C[Cloud + APIs]
     C --> P[Production AI System]
@@ -81,6 +85,7 @@ flowchart LR
 <td width="50%" valign="top">
 
 ### 🧠 [Enterprise RAG + Agentic AI](https://github.com/mohdsarfarazullakhan/Production_Grade_Enterprise_RAG-AgenticAI-)
+
 
 Production-oriented architecture for **retrieval, orchestration, LLM workflows, and agentic AI patterns**.
 
@@ -162,6 +167,8 @@ Content-based recommendation engine using **vector similarity with an interactiv
 <img src="https://img.shields.io/badge/LangChain-LLM_ORCHESTRATION-22D3EE?style=for-the-badge&labelColor=020617" />
 <img src="https://img.shields.io/badge/LangGraph-AGENT_WORKFLOWS-38BDF8?style=for-the-badge&labelColor=020617" />
 <img src="https://img.shields.io/badge/RAG-KNOWLEDGE_ENGINE-67E8F9?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/AGENTIC_AI-AI_AGENTS-22D3EE?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/NLP-TEXT_INTELLIGENCE-22D3EE?style=for-the-badge&labelColor=020617" />
 <img src="https://img.shields.io/badge/YOLO-VISION_ENGINE-06B6D4?style=for-the-badge&labelColor=020617" />
 <img src="https://img.shields.io/badge/MLflow-MLOps-0EA5E9?style=for-the-badge&labelColor=020617" />
 <img src="https://img.shields.io/badge/DVC-VERSIONED_ML-0891B2?style=for-the-badge&labelColor=020617" />
@@ -193,6 +200,7 @@ Content-based recommendation engine using **vector similarity with an interactiv
 ║  [ACTIVE]  Enterprise RAG + Knowledge Systems                  ║
 ║  [ACTIVE]  Agentic AI + Multi-Agent Orchestration              ║
 ║  [ACTIVE]  Computer Vision + Video Analytics                   ║
+║  [ACTIVE]  NLP + Semantic Search + Text Intelligence          ║
 ║  [ACTIVE]  LLM Evaluation + Retrieval Quality                  ║
 ║  [ACTIVE]  MLOps + Cloud Deployment                            ║
 ║  [ACTIVE]  AI Workflow Automation                              ║
@@ -224,3 +232,5 @@ Content-based recommendation engine using **vector similarity with an interactiv
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=footer&color=0:0891B2,45:0F172A,100:020617&text=AI%20%2F%2F%20SYSTEMS%20%2F%2F%20AUTOMATION&fontColor=67E8F9&fontSize=18&fontAlignY=55" alt="AI Footer" />
 
 </div>
+
+<!-- Keep assets/ai_robot_name_banner_agentic.gif in the same repository as README.md -->
